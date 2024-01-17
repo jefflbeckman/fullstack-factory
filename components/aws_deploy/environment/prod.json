@@ -1,0 +1,4 @@
+{
+    "state_bucket" : "jbtf-state-testing",
+    "state_table" : "jbtfStateTableTesting"
+}
