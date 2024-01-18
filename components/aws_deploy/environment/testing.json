@@ -1,4 +1,5 @@
 {
     "state_bucket" : "jbtf-state",
-    "state_table" : "jbtfStateTable"
+    "state_table" : "jbtfStateTable",
+    "ecr_repo_name" : "jbtf-image-repo"
 }
